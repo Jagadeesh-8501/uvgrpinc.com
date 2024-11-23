@@ -25,8 +25,11 @@ app.get('/', (req, res) => {
 });
 
 app.get('/about', (req, res) => {
-    res.render('about'); // renders about.ejs
+    console.log('Accessed About page');
 });
+// app.get('/about', (req, res) => {
+//     res.render('about');
+// });
 app.get('/apply', (req, res) => {
     res.render('apply'); // renders about.ejs
 });
