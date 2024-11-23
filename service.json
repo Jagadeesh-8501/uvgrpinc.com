@@ -1,0 +1,230 @@
+{
+    "projectsAndManagedServices": {
+        "id": 2,
+        "title": "Projects and Managed Services",
+        "icon": "images/icons/software.png",
+        "image": "images/services/1.jpg",
+        "description": "Efficiently manage and deliver projects with end-to-end support to meet organizational goals.",
+        "content": "Offer comprehensive project management solutions, overseeing the entire project lifecycle from planning to delivery, ensuring that your business objectives are met on time and within budget.",
+        "checklist": [
+            "Dedicated project teams for focused outcomes",
+            "Customized solutions to meet unique business needs",
+            "Scalable services for projects of all sizes",
+            "Regular project updates and reports",
+            "End-to-end support and maintenance"
+        ],
+        "additional_content": "Enhance project efficiency with advanced tools and real-time monitoring, providing ongoing maintenance to adapt to changing requirements.",
+        "benefits": [
+            {
+                "title": "End-to-End Support",
+                "description": "Streamlined solutions from initiation to delivery.",
+                "icon": "assets/img/icon/service_feature_3.svg"
+            },
+            {
+                "title": "Scalability",
+                "description": "Services that grow with your business needs.",
+                "icon": "assets/img/icon/service_feature_4.svg"
+            }
+        ],
+        "faqs": [
+            {
+                "question": "How can managed services benefit my business?",
+                "answer": "Managed services provide continuous support, optimizing processes and minimizing downtime, so you can focus on core business functions."
+            },
+            {
+                "question": "What kind of projects do you manage?",
+                "answer": "We manage a range of projects, from IT infrastructure upgrades to business process transformation initiatives, tailored to your organization’s needs."
+            }
+        ]
+    },
+    "enterpriseDataAnalytics": {
+        "id": 3,
+        "title": "Enterprise Data and Analytic Services",
+        "icon": "images/icons/enterprise-resource-planning.png",
+        "image": "images/services/2.jpg",
+        "description": "Empower data-driven decisions with advanced data analytics and insights.",
+        "content": "Transform your data into valuable insights using cutting-edge analytical tools. Drive smarter business decisions with tailored data solutions.",
+        "checklist": [
+            "Data mining and visualization",
+            "Predictive analytics and trend forecasting",
+            "Customized dashboards for real-time insights",
+            "Data cleansing and warehousing",
+            "Comprehensive data governance and security"
+        ],
+        "additional_content": "Leverage machine learning and AI to uncover actionable insights from complex data sets. Enable precise, informed decision-making at every level.",
+        "benefits": [
+            {
+                "title": "Actionable Insights",
+                "description": "Uncover meaningful patterns to enhance strategies.",
+                "icon": "assets/img/icon/service_feature_5.svg"
+            },
+            {
+                "title": "Enhanced Decision-Making",
+                "description": "Make informed decisions based on real-time data.",
+                "icon": "assets/img/icon/service_feature_6.svg"
+            }
+        ],
+        "faqs": [
+            {
+                "question": "What is data analytics, and how can it help my business?",
+                "answer": "Data analytics identifies patterns and trends, allowing businesses to make informed decisions, improve efficiency, and better serve customers."
+            },
+            {
+                "question": "Do you offer custom data solutions?",
+                "answer": "Yes, we tailor our data services to fit your business goals, whether it’s dashboard development, data visualization, or predictive analysis."
+            }
+        ]
+    },
+    "cloudSolutionsServices": {
+        "id": 4,
+        "title": "Cloud Solutions and Services",
+        "icon": "images/icons/cloud.png",
+        "image": "images/services/3.jpg",
+        "description": "Leverage the power of cloud technology for flexible and scalable business solutions.",
+        "content": "Offer secure, scalable cloud services to streamline operations, enhance collaboration, and reduce costs.",
+        "checklist": [
+            "Cloud migration and integration",
+            "Secure cloud storage and data backup",
+            "Flexible infrastructure-as-a-service (IaaS) options",
+            "Platform-as-a-service (PaaS) solutions",
+            "Cost-effective, scalable storage solutions"
+        ],
+        "additional_content": "Enable seamless data access, reduce IT overhead, and improve productivity through tailored cloud solutions.",
+        "benefits": [
+            {
+                "title": "Enhanced Accessibility",
+                "description": "Access data and services from anywhere.",
+                "icon": "assets/img/icon/service_feature_7.svg"
+            },
+            {
+                "title": "Cost-Efficiency",
+                "description": "Reduce IT costs with flexible, scalable cloud solutions.",
+                "icon": "assets/img/icon/service_feature_8.svg"
+            }
+        ],
+        "faqs": [
+            {
+                "question": "What are the benefits of cloud solutions?",
+                "answer": "Cloud solutions provide flexibility, scalability, and cost savings, allowing businesses to access data and applications from anywhere securely."
+            },
+            {
+                "question": "How do you ensure cloud security?",
+                "answer": "We use secure cloud architectures, regular audits, and robust encryption protocols to protect your data and maintain compliance."
+            }
+        ]
+    },
+    "mobileAppDevelopment": {
+        "id": 5,
+        "title": "Mobile App Development",
+        "icon": "images/icons/mobile-development.png",
+        "image": "images/services/4.jpg",
+        "description": "Develop user-centric mobile applications to expand your digital reach.",
+        "content": "Build responsive and engaging mobile applications to help you connect with customers on any platform.",
+        "checklist": [
+            "Design intuitive and user-friendly interfaces",
+            "Support for iOS and Android platforms",
+            "Backend integration for seamless functionality",
+            "Incorporate secure user authentication",
+            "Ensure cross-platform compatibility and scalability"
+        ],
+        "additional_content": "Combine innovative design with robust functionality to deliver high-performing mobile applications.",
+        "benefits": [
+            {
+                "title": "Enhanced User Engagement",
+                "description": "Engage users with intuitive and responsive mobile experiences.",
+                "icon": "assets/img/icon/service_feature_9.svg"
+            },
+            {
+                "title": "Cross-Platform Compatibility",
+                "description": "Reach users on both Android and iOS with seamless performance.",
+                "icon": "assets/img/icon/service_feature_10.svg"
+            }
+        ],
+        "faqs": [
+            {
+                "question": "Why is mobile app development important?",
+                "answer": "Mobile apps help businesses connect directly with customers, improving engagement, accessibility, and user experience."
+            },
+            {
+                "question": "What platforms do you support?",
+                "answer": "We build apps for both Android and iOS platforms, ensuring smooth performance and user experience across devices."
+            }
+        ]
+    },
+    "sapServices": {
+        "id": 6,
+        "title": "SAP Services",
+        "icon": "images/icons/services.png",
+        "image": "images/services/5.jpg",
+        "description": "Optimize business processes with SAP solutions tailored to your needs.",
+        "content": "Leverage SAP technologies to enhance operational efficiency and drive business growth with integrated ERP solutions.",
+        "checklist": [
+            "SAP implementation and migration",
+            "Custom SAP development and consulting",
+            "Ongoing support and maintenance",
+            "Process optimization and integration",
+            "Data migration and management solutions"
+        ],
+        "additional_content": "Tailored SAP services streamline business functions, improve resource management, and drive operational excellence.",
+        "benefits": [
+            {
+                "title": "Process Efficiency",
+                "description": "Streamline operations with optimized SAP solutions.",
+                "icon": "assets/img/icon/service_feature_11.svg"
+            },
+            {
+                "title": "Custom Integrations",
+                "description": "Adapt SAP functionalities to meet specific business needs.",
+                "icon": "assets/img/icon/service_feature_12.svg"
+            }
+        ],
+        "faqs": [
+            {
+                "question": "What are the benefits of SAP services?",
+                "answer": "SAP services enhance process efficiency, improve data management, and enable better decision-making."
+            },
+            {
+                "question": "Can you customize SAP solutions for my business?",
+                "answer": "Yes, we tailor SAP solutions to align with your unique business requirements, ensuring optimal performance."
+            }
+        ]
+    },
+    "itConsultingStaffing": {
+        "id": 7,
+        "title": "IT Consulting & Staffing",
+        "icon": "images/icons/consulting.png",
+        "image": "images/services/6.jpg",
+        "description": "Access expert IT professionals to enhance your team and achieve technical goals.",
+        "content": "Provide skilled IT consultants and staff augmentation to strengthen your workforce and meet project demands.",
+        "checklist": [
+            "Access to experienced IT professionals",
+            "Flexible staffing options for short-term and long-term projects",
+            "Comprehensive skills assessment and matching",
+            "Continuous training and skill development",
+            "On-demand consulting services"
+        ],
+        "additional_content": "Enhance your team with qualified professionals for various IT roles, ensuring project continuity and resource availability.",
+        "benefits": [
+            {
+                "title": "Skillful Talent",
+                "description": "Hire skilled professionals to meet your unique business needs.",
+                "icon": "assets/img/icon/service_feature_13.svg"
+            },
+            {
+                "title": "Flexible Engagements",
+                "description": "Choose staffing options tailored to project duration and requirements.",
+                "icon": "assets/img/icon/service_feature_14.svg"
+            }
+        ],
+        "faqs": [
+            {
+                "question": "What is IT consulting and staffing?",
+                "answer": "IT consulting and staffing provide specialized expertise and skilled personnel to support your IT projects and business goals."
+            },
+            {
+                "question": "How do you ensure the quality of IT consultants?",
+                "answer": "We perform thorough skills assessments, background checks, and continuous training to ensure high standards and professional expertise."
+            }
+        ]
+    }
+}

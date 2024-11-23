@@ -1,0 +1,26 @@
+[
+  {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "qualification": "Bachelor's",
+      "experience": "3 years",
+      "resume_url": "path/to/resume.pdf",
+      "notes": "Looking forward to this opportunity.",
+      "status": "Pending"
+  },
+  {
+      "id": 2,
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "email": "jane.smith@example.com",
+      "phone": "0987654321",
+      "qualification": "Master's",
+      "experience": "5 years",
+      "resume_url": "path/to/resume2.pdf",
+      "notes": "Excited to contribute!",
+      "status": "Pending"
+  }
+]

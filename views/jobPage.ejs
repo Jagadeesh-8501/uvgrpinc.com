@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Job Board</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+
+  <h1>Job Board</h1>
+
+  <!-- Add New Job Form -->
+  <form action="/jobs/add" method="POST">
+    <h2>Add New Job</h2>
+    <label>Title: <input type="text" name="title" required></label><br>
+    <label>Location: <input type="text" name="location" required></label><br>
+    <label>Type: <input type="text" name="type" required></label><br>
+    <label>Description: <textarea name="description" required></textarea></label><br>
+    <label>Skills: <input type="text" name="skills" placeholder="Comma-separated" required></label><br>
+    <label>Qualifications: <input type="text" name="qualifications" placeholder="Comma-separated" required></label><br>
+    <label>Benefits: <input type="text" name="benefits" placeholder="Comma-separated" required></label><br>
+    <button type="submit">Add Job</button>
+  </form>
+
+  <hr>
+
+  <h2>Available Jobs</h2>
+  <ul>
+    <% jobs.forEach(job => { %>
+      <li>
+        <h3><%= job.title %></h3>
+        <p><strong>Location:</strong> <%= job.location %></p>
+        <p><strong>Type:</strong> <%= job.type %></p>
+        <p><strong>Description:</strong> <%= job.jobDescription %></p>
+
+        <!-- Delete Job Form -->
+        <form action="/jobs/delete" method="POST">
+          <input type="hidden" name="id" value="<%= job.id %>">
+          <button type="submit">Delete Job</button>
+        </form>
+      </li>
+    <% }); %>
+  </ul>
+
+</body>
+</html>

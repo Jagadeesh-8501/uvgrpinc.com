@@ -1,0 +1,14 @@
+[
+  {
+    "id": 2,
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "email": "jane.smith@example.com",
+    "phone": "0987654321",
+    "qualification": "Master's",
+    "experience": "5 years",
+    "resume_url": "path/to/resume2.pdf",
+    "notes": "Excited to contribute!",
+    "status": "Pending"
+  }
+]

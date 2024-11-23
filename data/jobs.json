@@ -1,0 +1,95 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "IT Consultant",
+      "location": "Downtown",
+      "type": "Full-time",
+      "jobDescription": "As an IT Consultant at UV Group, you will work closely with clients to understand their business needs and design customized IT solutions to drive their digital transformation. You will guide clients on cloud services, data analytics, and IT infrastructure optimization to ensure the highest level of performance and security.",
+      "keyResponsibilities": [
+        "Collaborate with clients to assess their IT needs and develop tailored solutions.",
+        "Implement and manage cloud infrastructure and IT systems.",
+        "Provide expert advice on IT and digital transformation strategies.",
+        "Conduct training and support for clients on new technologies."
+      ],
+      "requiredSkills": [
+        "Proven experience in IT consulting and cloud solutions.",
+        "Strong understanding of enterprise systems, data analytics, and IT infrastructure.",
+        "Excellent problem-solving and communication skills.",
+        "Ability to work independently and as part of a team."
+      ],
+      "qualifications": [
+        "Bachelor’s degree in IT, Computer Science, or related field",
+        "Relevant certifications (e.g., AWS, Microsoft Azure) are a plus",
+        "3+ years of IT consulting experience"
+      ],
+      "benefits": [
+        "Flexible remote work options",
+        "Professional development and training",
+        "Annual performance bonuses"
+      ],
+      "postingDate": "2024-03-01"
+    },
+    {
+      "id": "1731925003504",
+      "title": "SAP Consultant",
+      "location": "Downtown",
+      "type": "Full-time",
+      "jobDescription": "We are seeking an SAP Consultant to implement, configure, and optimize SAP solutions for our clients. You will work closely with clients to understand their business processes and provide effective solutions using SAP technologies.",
+      "requiredSkills": [
+        "Implement and configure SAP solutions.\"",
+        "           \"Analyze business requirements and map them to SAP functionalities.\"",
+        "           \"Provide ongoing support and optimization of SAP systems.\"",
+        "           \"Collaborate with clients to ensure seamless integration with other systems.\""
+      ],
+      "qualifications": [
+        "\"Bachelor’s degree in Computer Science",
+        " Information Technology",
+        " or related field\"",
+        "           \"SAP certification is a plus\"",
+        "           \"3+ years of experience as an SAP consultant\""
+      ],
+      "benefits": [
+        "\"Comprehensive health insurance\"",
+        "           \"Performance-based incentives\"",
+        "           \"Professional development and certifications\""
+      ],
+      "postingDate": "2024-11-18"
+    },
+    {
+      "id": "1731925294615",
+      "title": "Enterprise Solutions Architect",
+      "location": "Downtown",
+      "type": "Full-time",
+      "jobDescription": "We are looking for an Enterprise Solutions Architect to design and implement scalable enterprise-level IT solutions. You will collaborate with business and IT teams to develop customized solutions that optimize business operations and ensure long-term success.",
+      "keyResponsibilities": [
+        "\"Design and implement enterprise-level IT solutions.\"",
+        "           \"Assess business needs and provide tailored solutions.\"",
+        "           \"Collaborate with cross-functional teams to ensure effective implementation.\"",
+        "           \"Ensure scalability",
+        " performance",
+        " and security of IT solutions.\""
+      ],
+      "requiredSkills": [
+        "\"Proven experience in enterprise-level IT architecture.\"",
+        "           \"Strong knowledge of enterprise software and cloud solutions.\"",
+        "           \"Experience with system integration and process optimization.\"",
+        "           \"Excellent problem-solving and leadership skills.\""
+      ],
+      "qualifications": [
+        "\"Bachelor’s degree in Computer Science",
+        " Information Technology",
+        " or related field\"",
+        "           \"Enterprise architecture certifications (TOGAF",
+        " Zachman) are a plus\"",
+        "           \"5+ years of experience in enterprise architecture\""
+      ],
+      "benefits": [
+        "\"Comprehensive health insurance\"",
+        "           \"Flexible working hours\"",
+        "           \"Professional development opportunities\""
+      ],
+      "postingDate": "2024-11-18"
+    }
+  ]
+}
