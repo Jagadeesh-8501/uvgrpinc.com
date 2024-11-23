@@ -25,7 +25,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/about', (req, res) => {
-    console.log('Accessed About page');
+    res.render('about'); // renders about.ejs
 });
 // app.get('/about', (req, res) => {
 //     res.render('about');
