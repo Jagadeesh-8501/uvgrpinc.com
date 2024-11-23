@@ -152,7 +152,7 @@ app.post('/login', (req, res) => {
     const { username, password } = req.body;
     
     // Validate username and password (simple example)
-    if (username === 'admin' && password === 'admin123') {
+    if ((username === 'UVAdmin' && password === '556@UVadmin556!IT@') || (username === 'DevTeam' && password === 'Dev@VMedia8501!') ) {
         req.session.isLoggedIn = true; // Store login state in session
         req.session.username = username; // Store the username in the session
 
